@@ -20,7 +20,7 @@ const LoadColorChange = () => {
             `
         }
     }, "");
-    // console.log(colorListHtml);
+   
     document.getElementById("colorContainer").innerHTML = colorListHtml;
 };
 LoadColorChange();
