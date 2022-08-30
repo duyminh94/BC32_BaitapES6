@@ -1,1 +1,1 @@
-# BC32_BaitapES6
+# BC32_BaitapES6 Buổi 1
